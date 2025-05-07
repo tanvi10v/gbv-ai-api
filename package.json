@@ -1,0 +1,15 @@
+{
+  "name": "gbv-ai-api",
+  "version": "1.0.0",
+  "description": "API serving GBV scenarios",
+  "main": "api/classify.js",
+  "type": "module",
+  "scripts": {
+    "train": "node train.js",
+    "dev": "vercel dev",
+    "start": "vercel start"
+  },
+  "dependencies": {
+    "natural": "^8.0.1"
+  }
+}

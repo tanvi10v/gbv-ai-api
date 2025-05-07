@@ -1,0 +1,30 @@
+[
+  {
+    "level": 2,
+    "category": "workplace harassment",
+    "text": "A colleague keeps making inappropriate comments about my appearance...",
+    "supportiveText": "Report the behavior to HR immediately.",
+    "unSupportiveText": "Ignore the comments and hope they stop on their own."
+  },
+  {
+    "level": 1,
+    "category": "digital abuse",
+    "text": "I’ve been getting constant messages from someone on social media...",
+    "supportiveText": "Adjust my privacy settings to restrict who can contact me.",
+    "unSupportiveText": "Delete my social media accounts entirely to avoid confrontation."
+  },
+  {
+    "level": 1,
+    "category": "intimate partner violence",
+    "text": "My partner checks my phone without permission and controls who I talk to...",
+    "supportiveText": "Talk to a trusted friend or counselor for help.",
+    "unSupportiveText": "Stay silent to avoid conflict."
+  },
+  {
+    "level": 2,
+    "category": "bystander intervention",
+    "text": "I witnessed someone being harassed on public transport...",
+    "supportiveText": "Intervene safely or report to the authorities.",
+    "unSupportiveText": "Look the other way and do nothing."
+  }
+]
