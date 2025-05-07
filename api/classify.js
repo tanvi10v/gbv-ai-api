@@ -6,7 +6,7 @@ export default function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { count, categories } = req.body;
+  const { count, categories } = JSON.parse(req.body);
 
   if (!count || typeof count !== 'number' || count <= 0) {
     return res.status(400).json({ error: 'count must be a positive number' });
