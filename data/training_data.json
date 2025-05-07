@@ -1,30 +1,107 @@
 [
   {
-    "level": 2,
-    "category": "workplace harassment",
-    "text": "A colleague keeps making inappropriate comments about my appearance...",
-    "supportiveText": "Report the behavior to HR immediately.",
-    "unSupportiveText": "Ignore the comments and hope they stop on their own."
-  },
-  {
     "level": 1,
     "category": "digital abuse",
-    "text": "I’ve been getting constant messages from someone on social media...",
-    "supportiveText": "Adjust my privacy settings to restrict who can contact me.",
-    "unSupportiveText": "Delete my social media accounts entirely to avoid confrontation."
+    "text": "I receive repeated threatening emails from an anonymous sender.",
+    "supportiveText": "Report the emails to the platform and block the sender.",
+    "unSupportiveText": "Keep the emails and do nothing."
+  },
+  {
+    "level": 2,
+    "category": "workplace harassment",
+    "text": "My manager frequently makes personal comments about my appearance.",
+    "supportiveText": "Document the incidents and report to HR.",
+    "unSupportiveText": "Laugh it off to avoid conflict."
   },
   {
     "level": 1,
     "category": "intimate partner violence",
-    "text": "My partner checks my phone without permission and controls who I talk to...",
-    "supportiveText": "Talk to a trusted friend or counselor for help.",
-    "unSupportiveText": "Stay silent to avoid conflict."
+    "text": "My partner insists on knowing my location at all times.",
+    "supportiveText": "Set boundaries and seek support from a counselor.",
+    "unSupportiveText": "Let them track me to avoid arguments."
   },
   {
     "level": 2,
     "category": "bystander intervention",
-    "text": "I witnessed someone being harassed on public transport...",
-    "supportiveText": "Intervene safely or report to the authorities.",
-    "unSupportiveText": "Look the other way and do nothing."
+    "text": "I see someone being yelled at aggressively in public.",
+    "supportiveText": "Step in if safe or call for help.",
+    "unSupportiveText": "Walk away and assume it's not my business."
+  },
+  {
+    "level": 2,
+    "category": "digital abuse",
+    "text": "A friend is being bullied in a group chat.",
+    "supportiveText": "Speak up and report the bullying.",
+    "unSupportiveText": "Mute the chat and avoid involvement."
+  },
+  {
+    "level": 1,
+    "category": "workplace harassment",
+    "text": "A coworker keeps touching my shoulder despite me asking them to stop.",
+    "supportiveText": "Reiterate your boundary and escalate to HR.",
+    "unSupportiveText": "Let it go and try to avoid them."
+  },
+  {
+    "level": 2,
+    "category": "intimate partner violence",
+    "text": "My partner threatens self-harm if I leave them.",
+    "supportiveText": "Reach out to a crisis line or support service.",
+    "unSupportiveText": "Stay in the relationship out of fear."
+  },
+  {
+    "level": 1,
+    "category": "bystander intervention",
+    "text": "I overheard someone making sexist jokes in a meeting.",
+    "supportiveText": "Call out the behavior respectfully.",
+    "unSupportiveText": "Pretend you didn't hear anything."
+  },
+  {
+    "level": 2,
+    "category": "digital abuse",
+    "text": "Someone is impersonating me online and posting false content.",
+    "supportiveText": "Report the impersonation to the platform.",
+    "unSupportiveText": "Ignore it and hope it stops."
+  },
+  {
+    "level": 1,
+    "category": "workplace harassment",
+    "text": "My team excludes me from meetings and decision-making.",
+    "supportiveText": "Raise the issue with your supervisor.",
+    "unSupportiveText": "Accept the situation and work harder."
+  },
+  {
+    "level": 2,
+    "category": "intimate partner violence",
+    "text": "My partner controls my finances and access to money.",
+    "supportiveText": "Seek financial counseling and support.",
+    "unSupportiveText": "Let them manage everything to keep the peace."
+  },
+  {
+    "level": 1,
+    "category": "bystander intervention",
+    "text": "A stranger looks uncomfortable with someone speaking aggressively to them.",
+    "supportiveText": "Check in with the person or alert someone nearby.",
+    "unSupportiveText": "Assume they know each other and stay out of it."
+  },
+  {
+    "level": 2,
+    "category": "digital abuse",
+    "text": "My ex is posting private photos of me online.",
+    "supportiveText": "Report to the platform and contact legal support.",
+    "unSupportiveText": "Ignore it and stay offline."
+  },
+  {
+    "level": 1,
+    "category": "workplace harassment",
+    "text": "A colleague shares offensive memes in our work chat.",
+    "supportiveText": "Ask them to stop and inform your manager.",
+    "unSupportiveText": "Delete the messages and move on."
+  },
+  {
+    "level": 2,
+    "category": "intimate partner violence",
+    "text": "My partner yells and throws things during arguments.",
+    "supportiveText": "Create a safety plan and talk to someone you trust.",
+    "unSupportiveText": "Apologize to avoid escalating things."
   }
 ]
