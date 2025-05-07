@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import natural from 'natural';
 
 export default function handler(req, res) {
   if (req.method !== 'POST') {
